@@ -1,6 +1,10 @@
 Functionalities
 
+TODO:
+everything lmao
+
 *****FOR MVP*****
+
 Each tile sends data to own MQTT topic.
 Each Topic has dedicated listener class with own Tile class. 
 
@@ -20,6 +24,7 @@ write to disk
 
 
 ****LATER FUNCTIONALITIES****
+
 Replaying functionalities
 
 
