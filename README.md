@@ -3,6 +3,15 @@ Functionalities
 TODO:
 everything lmao
 
+TOLEARN:
+benchmarking in c++
+unittesting in c++
+
+
+Application on startup
+- Connect to MQTT broker, fetch all active topics?
+- Initiate OpenGL Context
+
 *****FOR MVP*****
 
 Each tile sends data to own MQTT topic.
