@@ -1,5 +1,10 @@
 Functionalities
 
+
+DOCKER COMMAND:
+docker run -it -p 1883:1883 -v ./resources:/mosquitto/conf --network=host mosquitto
+
+
 TODO:
 everything lmao
 
